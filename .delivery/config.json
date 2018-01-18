@@ -5,9 +5,6 @@
     "path": ".delivery/build_cookbook"
   },
   "delivery-truck": {
-    "publish": {
-      "github": "teknofire/test-cookbook"
-    },
     "lint": {
       "enable_cookstyle": true
     }
